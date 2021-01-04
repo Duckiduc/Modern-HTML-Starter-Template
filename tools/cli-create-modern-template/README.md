@@ -2,48 +2,57 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-![logo](https://htmltemplate.site/assets/logo.png)
+![logo](https://moderntemplate.site/img/logo.png)
+
+## Description
+
+This template is made to help you create modern, fast and completely secure progressive web applications
 
 ## Homepage
 
-[https://htmltemplate.site/](https://htmltemplate.site/)
-
-## VSCode Extension
-
-[https://marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=igor-agapov.htmltemplate)
-
-## CLI
-
-[https://www.npmjs.com](https://www.npmjs.com/package/create-modern-template)
+[https://moderntemplate.site/](https://moderntemplate.site/)
 
 ## Includes
 
 - All Meta & Link Tags
-- HTML5 Tags Example
-- CSS3 Props Example
-- CSS Modules Example
-- JavaScript Modules Example
+- HTML5 Tags & CSS3 Props
+- CSS & JavaScript Modules
+- Offline First Service Worker
 - manifest.json
-- Sevice Worker Example
+- AMP Project
+- All Security Headers
+- Express.js Server
+- netlify.toml
 - robots.txt
 - sitemap.xml
 - browserconfig.xml
 - .gitignore
-- Local Express.js Server Example
-- Error 404 Page Example
+- README.md
+- Error 404 Page
 - And More
+
+## Installation
+
+```
+npm i -g create-modern-template
+// or
+yarn global add create-modern-template
+```
 
 ## Usage
 
 ```bash
-npm i create-modern-template -g
-// or
-yarn global add create-modern-template
-
-// create directory, cd to it
 create-modern-template
-// or without install
+// without installation
 npx create-modern-template
+```
+
+## Flags
+
+```bash
+--yes / -y -> skip questions
+--git / -g -> initialize git
+--install / -i -> install dependencies
 ```
 
 ### Development Server

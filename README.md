@@ -2,36 +2,46 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-![logo](https://htmltemplate.site/assets/logo.png)
+![logo](https://moderntemplate.site/img/logo.png)
 
-## Homepage
+## Description
 
-[https://htmltemplate.site/](https://htmltemplate.site/)
-
-## VSCode Extension
-
-[https://marketplace.visualstudio.com](https://marketplace.visualstudio.com/items?itemName=igor-agapov.htmltemplate)
-
-## CLI
-
-[https://www.npmjs.com](https://www.npmjs.com/package/create-modern-template)
+This template is made to help you create modern, fast and completely secure progressive web applications
 
 ## Includes
 
 - All Meta & Link Tags
-- HTML5 Tags Example
-- CSS3 Props Example
-- CSS Modules Example
-- JavaScript Modules Example
+- HTML5 Tags & CSS3 Props
+- CSS & JavaScript Modules
+- Offline First Service Worker
 - manifest.json
-- Sevice Worker Example
+- AMP Project
+- All Security Headers
+- Express.js Server
+- netlify.toml
 - robots.txt
 - sitemap.xml
 - browserconfig.xml
 - .gitignore
-- Local Express.js Server Example
-- Error 404 Page Example
+- README.md
+- Error 404 Page
 - And More
+
+## Homepage
+
+[https://moderntemplate.site/](https://moderntemplate.site/)
+
+### Last Update: 2021-01-03
+
+### Current Version: 2.0.6
+
+## VSCode HTML-Snippet
+
+[https://raw.githubusercontent.com](https://raw.githubusercontent.com/harryheman/Modern-HTML-Starter-Template/main/tools/vscode-html-snippet.json)
+
+## Node.js CLI
+
+[https://www.npmjs.com](https://www.npmjs.com/package/create-modern-template)
 
 ## Installation
 
@@ -55,9 +65,23 @@ npm run dev / yarn dev
 npm start / yarn start
 ```
 
-## Lighthouse
+## Tests
 
-![lighthouse](https://htmltemplate.site/assets/lighthouse.png)
+### Lighthouse
+
+![lighthouse](https://moderntemplate.site/img/light-house.png)
+
+### WebPageTest
+
+![webpagetest](https://moderntemplate.site/img/webpagetest.png)
+
+### SecurityHeaders
+
+![securityheaders](https://moderntemplate.site/img/securityheaders.png)
+
+### AMP
+
+![amp](https://moderntemplate.site/img/amp.png)
 
 ## Author
 
@@ -65,4 +89,8 @@ npm start / yarn start
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License](LICENSE)
+
+## Support
+
+You can [Buy Me A Coffee](https://www.buymeacoffee.com/igoragapov)
